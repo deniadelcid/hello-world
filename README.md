@@ -1,2 +1,3 @@
 # hello-world
-Hello-world repository, my forst repository.
+
+Hello world!!  My name is Denia and I am really excited about becoming active on this community.
